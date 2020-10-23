@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-Um simples chat com Socket.io, Node.js e React.
+⚡ Um simples chat com Socket.io, Node.js e React, com o objetivo de aprender como funciona o Socket.io e que foi desenvolvido seguindo um tutorial no YouTube: https://youtu.be/ZwFA3YMfkoc
 
 ---
 
