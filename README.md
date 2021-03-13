@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/ChatApp?color=%2304D361&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/chat-app?color=%2304D361&style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/ChatApp?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/chat-app?style=for-the-badge">
   
-  <a href="https://github.com/grochavieira/ChatApp/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/ChatApp?style=for-the-badge">
+  <a href="https://github.com/grochavieira/chat-app/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/chat-app?style=for-the-badge">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
@@ -78,10 +78,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grochavieira/ChatApp.git
+$ git clone https://github.com/grochavieira/chat-app.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ChatApp
+$ cd chat-app
 
 # Vá para a pasta server
 $ cd server
@@ -101,10 +101,10 @@ $ npm start
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grochavieira/ChatApp.git
+$ git clone https://github.com/grochavieira/chat-app.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ChatApp
+$ cd chat-app
 
 # Vá para a pasta client
 $ cd client
@@ -132,7 +132,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[React Emoji](https://www.npmjs.com/package/react-emoji)**
 - **[React Scroll To Bottom](npmjs.com/package/react-scroll-to-bottom)**
 
-> Veja o arquivo [package.json](https://github.com/grochavieira/ChatApp/blob/master/client/package.json)
+> Veja o arquivo [package.json](https://github.com/grochavieira/chat-app/blob/master/client/package.json)
 
 #### **Server** ([NodeJS](https://nodejs.org/en/))
 
@@ -141,7 +141,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Nodemon](https://nodemon.io/)**
 - **[Socket.io](https://socket.io/)**
 
-> Veja o arquivo [package.json](https://github.com/grochavieira/ChatApp/blob/master/server/package.json)
+> Veja o arquivo [package.json](https://github.com/grochavieira/chat-app/blob/master/server/package.json)
 
 #### **Utilitários**
 
